@@ -1,0 +1,119 @@
+/* ===================================================
+   ASHANTI FLEUR PORTFOLIO
+   VARIABLES.CSS
+   Design System
+=================================================== */
+
+/* ===============================
+   GOOGLE FONTS
+=============================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@200;300;400;500;600;700;800&family=Playfair+Display:wght@400;500;600;700&display=swap');
+
+/* ===============================
+   ROOT VARIABLES
+=============================== */
+
+:root{
+
+    /* ========= COLORS ========= */
+
+    --primary:#B68D40;
+    --primary-light:#D6B36A;
+
+    --secondary:#2C2C2C;
+
+    --background:#F8F7F3;
+    --surface:#FFFFFF;
+
+    --text:#222222;
+    --text-light:#6E6E6E;
+
+    --border:#E6E6E6;
+
+    --success:#16A34A;
+    --danger:#DC2626;
+    --warning:#F59E0B;
+
+    /* ========= DARK MODE ========= */
+
+    --dark-bg:#111111;
+    --dark-surface:#1B1B1B;
+
+    --dark-text:#F5F5F5;
+    --dark-secondary:#BDBDBD;
+
+    /* ========= COMPONENT COLORS ========= */
+
+    --card-bg:var(--surface);
+
+    --card-border:var(--border);
+
+    /* ========= TYPOGRAPHY ========= */
+
+    --heading-font:'Playfair Display', serif;
+    --body-font:'Outfit', sans-serif;
+
+    /* ========= FONT SIZES ========= */
+
+    --fs-hero:5rem;
+
+    --fs-h1:3.5rem;
+    --fs-h2:2.7rem;
+    --fs-h3:2rem;
+    --fs-h4:1.3rem;
+
+    --fs-body:1rem;
+    --fs-small:.9rem;
+
+    /* ========= FONT WEIGHTS ========= */
+
+    --fw-light:300;
+    --fw-regular:400;
+    --fw-medium:500;
+    --fw-semibold:600;
+    --fw-bold:700;
+    --fw-extra:800;
+
+    /* ========= SPACING ========= */
+
+    --space-xs:.5rem;
+    --space-sm:1rem;
+    --space-md:2rem;
+    --space-lg:4rem;
+    --space-xl:6rem;
+    --space-2xl:8rem;
+
+    /* ========= BORDER RADIUS ========= */
+
+    --radius-sm:8px;
+    --radius-md:15px;
+    --radius-lg:25px;
+    --radius-xl:40px;
+    --radius-round:50%;
+
+    /* ========= SHADOWS ========= */
+
+    --shadow-sm:0 5px 15px rgba(0,0,0,.08);
+
+    --shadow-md:0 10px 30px rgba(0,0,0,.10);
+
+    --shadow-lg:0 25px 60px rgba(0,0,0,.15);
+
+    /* ========= TRANSITIONS ========= */
+
+    --transition-fast:.3s ease;
+
+    --transition-normal:.5s ease;
+
+    --transition-slow:.8s ease;
+
+    /* ========= CONTAINER ========= */
+
+    --container-width:1200px;
+
+    /* ========= COMPATIBILITY ALIASES ========= */
+
+    --text-color:var(--text);
+
+}

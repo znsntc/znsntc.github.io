@@ -1,0 +1,307 @@
+/* ==========================================================
+   ASHANTI FLEUR PORTFOLIO
+   COMPONENTS.CSS
+========================================================== */
+
+/* ===============================
+   CONTAINER
+=============================== */
+
+.container{
+    width:min(1200px,90%);
+    margin:auto;
+}
+
+/* ===============================
+   SECTION HEADER
+=============================== */
+
+.section-header{
+    text-align:center;
+    margin-bottom:80px;
+}
+
+.section-header span{
+    display:inline-block;
+    color:var(--primary);
+    font-weight:600;
+    letter-spacing:3px;
+    margin-bottom:12px;
+}
+
+.section-header h2{
+    font-size:var(--fs-h2);
+    font-family:var(--heading-font);
+    margin-bottom:20px;
+}
+
+.section-header p{
+    max-width:650px;
+    margin:auto;
+    color:var(--text-light);
+}
+
+/* ===============================
+   BUTTONS
+=============================== */
+
+.btn{
+    display:inline-flex;
+    align-items:center;
+    justify-content:center;
+    gap:10px;
+    padding:15px 34px;
+    border-radius:50px;
+    font-weight:600;
+    transition:var(--transition-fast);
+}
+
+.btn-primary{
+    background:var(--primary);
+    color:#fff;
+}
+
+.btn-primary:hover{
+    transform:translateY(-4px);
+    box-shadow:var(--shadow-lg);
+}
+
+.btn-secondary{
+    border:2px solid var(--primary);
+    color:var(--primary);
+}
+
+.btn-secondary:hover{
+    background:var(--primary);
+    color:#fff;
+}
+
+/* ===============================
+   CARD
+=============================== */
+
+.card{
+    background:var(--surface);
+    border-radius:25px;
+    box-shadow:var(--shadow-sm);
+    border:1px solid var(--border);
+    transition:var(--transition-fast);
+}
+
+.card:hover{
+    transform:translateY(-8px);
+    box-shadow:var(--shadow-lg);
+}
+
+/* ===============================
+   BADGE
+=============================== */
+
+.badge{
+    display:inline-block;
+    padding:8px 18px;
+    border-radius:50px;
+    background:rgba(182,141,64,.12);
+    color:var(--primary);
+    font-size:.85rem;
+    font-weight:600;
+}
+
+/* ===============================
+   TAG
+=============================== */
+
+.tag{
+    display:inline-block;
+    padding:8px 16px;
+    border-radius:50px;
+    background:#f2f2f2;
+    font-size:.85rem;
+    margin:5px;
+}
+
+/* ===============================
+   SOCIAL ICONS
+=============================== */
+
+.social-icon{
+
+    width:50px;
+
+    height:50px;
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+    border-radius:50%;
+
+    background:#fff;
+
+    box-shadow:var(--shadow-sm);
+
+    transition:.35s;
+
+}
+
+.social-icon:hover{
+
+    background:var(--primary);
+
+    color:#fff;
+
+    transform:translateY(-5px);
+
+}
+
+/* ===============================
+   ICON BOX
+=============================== */
+
+.icon-box{
+
+    width:70px;
+
+    height:70px;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    border-radius:20px;
+
+    background:rgba(182,141,64,.1);
+
+    color:var(--primary);
+
+    font-size:28px;
+
+}
+
+/* ===============================
+   IMAGE FRAME
+=============================== */
+
+.image-frame{
+
+    overflow:hidden;
+
+    border-radius:30px;
+
+}
+
+.image-frame img{
+
+    transition:.5s;
+
+}
+
+.image-frame:hover img{
+
+    transform:scale(1.08);
+
+}
+
+/* ===============================
+   GLASS CARD
+=============================== */
+
+.glass{
+
+    background:rgba(255,255,255,.7);
+
+    backdrop-filter:blur(18px);
+
+    border:1px solid rgba(255,255,255,.3);
+
+}
+
+/* ===============================
+   INPUTS
+=============================== */
+
+.input-group{
+
+    margin-bottom:25px;
+
+}
+
+.input-group label{
+
+    display:block;
+
+    margin-bottom:8px;
+
+    font-weight:600;
+
+}
+
+.input-group input,
+.input-group textarea{
+
+    width:100%;
+
+    padding:18px;
+
+    border:1px solid var(--border);
+
+    border-radius:15px;
+
+    font-family:inherit;
+
+}
+
+.input-group input:focus,
+.input-group textarea:focus{
+
+    outline:none;
+
+    border-color:var(--primary);
+
+}
+
+/* ===============================
+   DIVIDER
+=============================== */
+
+.divider{
+
+    width:90px;
+
+    height:4px;
+
+    background:var(--primary);
+
+    margin:25px auto;
+
+    border-radius:50px;
+
+}
+
+/* ===============================
+   CHIP
+=============================== */
+
+.chip{
+
+    display:inline-flex;
+
+    align-items:center;
+
+    gap:10px;
+
+    padding:10px 20px;
+
+    border-radius:50px;
+
+    background:#fff;
+
+    box-shadow:var(--shadow-sm);
+
+    margin:5px;
+
+}

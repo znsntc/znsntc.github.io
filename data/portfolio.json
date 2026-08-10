@@ -1,0 +1,457 @@
+{
+  "hero": {
+    "name": "Ashanti Fleur",
+    "title": "Creative Graphic Designer",
+    "typing": [
+      "Social Media Graphics",
+      "Video Editing",
+      "Event & Logo Design"
+    ],
+    "description": "Driven by creativity and purpose, I transform ideas into meaningful visual experiences through branding, digital design, social media, and storytelling.",
+    "profileImage": "assets/images/profile.png",
+    "resume": "assets/image/resume/AshantiFleur_resume.pdf"
+  },
+
+  "about": {
+    "title": "Designing With Purpose, Creating With Passion",
+    "intro": "Hi, I'm Ashanti Fleur.",
+    "description1": "Driven by the belief that creativity is a language beyond words, I seek to craft visuals that communicate with purpose and authenticity.",
+    "description2": "Whether designing social media campaigns, creating visual identities, editing videos, or developing marketing materials, my goal is always the same—to create meaningful experiences that connect with people.",
+    "image": "assets/images/about.jpg",
+    "location": "Philippines",
+    "email": "ashantifleur.work@gmail.com",
+    "experience": "Graphic Designer"
+  },
+
+  "skills": [
+    {
+      "title": "Social Media Graphics",
+      "category": "social",
+      "items": [
+        "Social Media Posts",
+        "Announcements",
+        "Social Media Campaigns"
+      ]
+    },
+
+    {
+      "title": "Video Editing",
+      "category": "video",
+      "items": [
+        "Promotional Videos",
+        "Commercials"
+      ]
+    },
+
+    {
+      "title": "Event & Logo Design",
+      "category": "event",
+      "items": [
+        "Tarpaulins",
+        "Event Posters",
+        "Logo Design"
+      ]
+    }
+  ],
+
+
+ "projects": [
+
+    {
+        "id": 1,
+        "title": "Mental Health Break",
+        "category": "social",
+        "subcategory": "Announcements",
+        "thumbnail": "assets/image/portfolio/social/announcements/MentalHealthBreak.jpg",
+        "gallery": [ "assets/image/portfolio/social/announcements/MentalHealthBreak.jpg"],
+        "description": "Designed a minimal and calming announcement poster promoting the institution’s Mental Health Break, emphasizing wellness and self-care through a clean, easy-to-read visual approach.",
+        "client": "School Event",
+        "year": "2024",
+        "tools": [
+            "Canva"
+        ],
+        "type": "image"
+    },
+
+    {
+        "id": 2,
+        "title": "Buwan ng Wika",
+        "category": "social",
+        "subcategory": "Announcements",
+        "thumbnail": "assets/image/portfolio/social/announcements/buwan.jpg",
+        "gallery": [ "assets/image/portfolio/social/announcements/buwan.jpg" ],
+        "description": "Designed a celebratory recognition poster for the Buwan ng Wika competition, featuring a podium-inspired layout that highlights winners while incorporating festive Filipino-themed elements.",
+        "client": "School Event",
+        "year": "2024",
+        "tools": [ "Canva" ],
+        "type": "image"
+    },
+
+    {
+        "id": 3,
+        "title": "Uniform Policy",
+        "category": "social",
+        "subcategory": "Announcements",
+        "thumbnail": "assets/image/portfolio/social/announcements/Policy.jpg",
+        "gallery": [  "assets/image/portfolio/social/announcements/Policy.jpg"  ],
+        "description": "Created a straightforward and eye-catching policy announcement that effectively communicates the college’s uniform regulation using strong visual hierarchy and high readability.",
+        "client": "School Event",
+        "year": "2025",
+        "tools": [ "Canva" ],
+        "type": "image"
+    },
+
+    {
+        "id": 4,
+        "title": "Donation Drive",
+        "category": "social",
+        "subcategory": "Announcements",
+        "thumbnail": "assets/image/portfolio/social/announcements/Disaster.jpg",
+        "gallery": [ "assets/image/portfolio/social/announcements/Disaster.jpg"],
+        "description": "Developed an impactful awareness poster encouraging disaster relief donations, utilizing bold typography and compelling visuals to clearly communicate essential information and inspire community support.",
+        "client": "School Event",
+        "year": "2025",
+        "tools": ["Canva"],
+        "type": "image"
+    },
+
+     {
+        "id": 5,
+        "title": "Printing Service",
+        "category": "social",
+        "subcategory": "Announcements",
+        "thumbnail": "assets/image/portfolio/social/announcements/Printing Service.jpg",
+        "gallery": ["assets/image/portfolio/social/announcements/Printing Service.jpg" ],
+        "description": "Created an informative promotional layout for the Supreme Student Government’s Free Printing Service, using a clean and engaging design to effectively communicate the program’s purpose and guidelines.",
+        "client": "School Event",
+        "year": "2025",
+        "tools": [ "Canva" ],
+        "type": "image"
+    },
+
+       {
+        "id": 6,
+        "title": "Voleyball Tryouts",
+        "category": "social",
+        "subcategory": "Announcements",
+        "thumbnail": "assets/image/portfolio/social/announcements/Tryoout.jpg",
+        "gallery": ["assets/image/portfolio/social/announcements/Tryoout.jpg"],
+        "description": "Designed a dynamic sports promotional poster for the college volleyball tryouts, combining bold typography and energetic visuals to capture attention and encourage student participation.",
+        "client": "School Event",
+        "year": "2024",
+        "tools": [
+            "Canva"
+        ],
+        "type": "image"
+    },
+
+    {
+        "id": 7,
+        "title": "A Second Heartbeat",
+        "category": "social",
+        "subcategory": "Social Media Posts",
+        "thumbnail": "assets/image/portfolio/social/post/A Second Heartbeat.jpg",
+        "gallery": [
+            "assets/image/portfolio/social/post/A Second Heartbeat.jpg"
+        ],
+        "description": "Designed a cinematic promotional poster for a student-produced short film, using emotional imagery, balanced typography, and a movie-inspired layout to capture the film’s heartfelt narrative and attract viewers.",
+        "client": "School Event",
+        "year": "2025",
+        "tools": [
+            "Illustrator",
+            "Photoshop"
+        ],
+        "type": "image"
+    },
+
+    {
+        "id": 8,
+        "title": "Birtday Posting",
+        "category": "social",
+        "subcategory": "Social Media Posts",
+        "thumbnail": "assets/image/portfolio/social/post/birthday.jpg",
+        "gallery": [
+            "assets/image/portfolio/social/post/birthday.jpg"
+        ],
+        "description": "Created a personalized birthday greeting post for the Supreme Student Government, featuring a modern and visually appealing layout that celebrates the individual while maintaining the organization’s branding and social media identity.",
+        "client": "School Event",
+        "year": "2025",
+        "tools": [
+            "Canva"
+        ],
+        "type": "image"
+    },
+
+    {
+        "id": 9,
+        "title": "President and Dean List",
+        "category": "social",
+        "subcategory": "Social Media Posts",
+        "thumbnail": "assets/image/portfolio/social/post/pldl.jpg",
+        "gallery": [
+            "assets/image/portfolio/social/post/pldl.jpg",
+            "assets/image/portfolio/social/post/pldl1.jpg",
+            "assets/image/portfolio/social/post/pldl2.jpg",
+            "assets/image/portfolio/social/post/pldl3.jpg"
+        ],
+        "description": "Designed a cohesive social media recognition campaign honoring the College of Communication’s President’s and Dean’s Listers.",
+        "client": "School Event",
+        "year": "2025",
+        "tools": [
+            "Canva"
+        ],
+        "type": "image"
+    },
+
+  {
+        "id": 10,
+        "title": "SSG President and Dean List",
+        "category": "social",
+        "subcategory": "Social Media Posts",
+        "thumbnail": "assets/image/portfolio/social/post/ssg.jpg",
+        "gallery": [
+            "assets/image/portfolio/social/post/ssg.jpg",
+            "assets/image/portfolio/social/post/ssg1.jpg",
+            "assets/image/portfolio/social/post/ssg2.jpg",
+            "assets/image/portfolio/social/post/ssg3.jpg"
+        ],
+        "description": "Designed a promotional social media recognition series celebrating the academic achievements of th supreme Student Government officers who earned President's and Dean's List Honors. The layouts feature cohesive branding,bold, typography, and clean visual hierarchy to showcase each awardee while maintaining a consistent and engaging campaign identity.",
+        "client": "School Event",
+        "year": "2025",
+        "tools": ["Canva" ],
+        "type": "image"
+    },
+
+
+    {
+        "id": 11,
+        "title": "Personal Watermark/Logo",
+        "category": "event",
+        "subcategory": "Logo Design",
+        "thumbnail": "assets/image/portfolio/logo/watermark.jpg",
+        "gallery": [
+            "assets/image/portfolio/logo/watermark.jpg"
+        ],
+        "description": "Elegant graduation invitation designed for print and digital distribution.",
+        "client": "School Event",
+        "year": "2025",
+        "tools": ["Canva"],
+        "type": "image"
+    },
+
+  {
+    "id": 12,
+    "title": "MX. Olivarez College Logo",
+    "category": "event",
+    "subcategory": "Logo Design",
+    "thumbnail": "assets/image/portfolio/event/mxevent.jpg",
+    "gallery": [ "assets/image/portfolio/event/mxevent.jpg"],
+    "description": "An impactful and meaningful logo representing LGBTQ+ unity.",
+    "client": "School Event",
+    "year": "2024-2025",
+    "tools": ["Canva"],
+    "type": "image"
+  },
+    {
+    "id": 13,
+    "title": "Christmas Party Theme",
+    "category": "event",
+    "subcategory": "Tarpaulins",
+    "thumbnail": "assets/image/portfolio/event/tarp.jpg",
+    "gallery": [
+        "assets/image/portfolio/event/tarp.jpg"
+    ],
+    "description": "Created a festive and eye-catching event layout that reflected the 2024 Christmas Party theme using cohesive visuals, creative typography, and holiday-inspired elements to engage the target audience",
+    "client": "School Event",
+    "year": "2024",
+    "tools": [ "Canva" ],
+    "type": "image"
+  },
+
+    {
+    "id": 14,
+    "title": "Stage & Border Tarpaulin Design",
+    "category": "event",
+    "subcategory": "Tarpaulins",
+    "thumbnail": "assets/image/portfolio/event/tarps.jpg",
+    "gallery": ["assets/image/portfolio/event/tarps.jpg"],
+    "description": "Designed a vibrant tarpaulin for the event stage backdrop and decorative borders, inspired by the rich culture and traditions of Filipino festivals.",
+    "client": "School Event",
+    "year": "2024",
+    "tools": [ "Canva"],
+    "type": "image"
+  },
+
+    {
+    "id": 15,
+    "title": "Valentines Poster",
+    "category": "event",
+    "subcategory": "Event Posters",
+    "thumbnail": "assets/image/portfolio/poster/valentines.jpg",
+    "gallery": [ "assets/image/portfolio/poster/valentines.jpg"],
+    "description": "Designed a visually appealing promotional layout for the SSG-led Valentine’s event held in February 2025.",
+    "client": "School Event",
+    "year": "2025",
+    "tools": ["Canva"],
+
+    "type": "image"
+   },
+
+    {
+    "id": 16,
+    "title": "School Intramurals Poster",
+    "category": "event",
+    "subcategory": "Event Posters",
+    "thumbnail": "assets/image/portfolio/poster/School Intramurals Poster.jpg",
+    "gallery": ["assets/image/portfolio/poster/School Intramurals Poster.jpg"],
+    "description": "Developed a vibrant event layout for the Olivarez College Intramurals opening ceremony, combining impactful visuals, balanced typography, and a cohesive color palette to promote the event and celebrate school unity and sportsmanship.",
+    "client": "School Event",
+    "year": "2024",
+    "tools": ["Canva"],
+    "type": "image"
+  },
+  {
+    "id": 17,
+    "title": "MX Olivarez College Poster",
+    "category": "event",
+    "subcategory": "Event Posters",
+    "thumbnail": "assets/image/portfolio/poster/MX Olivarez College Poster.jpg",
+    "gallery": [ "assets/image/portfolio/poster/MX Olivarez College Poster.jpg"],
+    "description": "Designed a visually impactful poster for MX Olivarez College that promotes LGBTQ+ visibility, inclusivity, and unity through bold visuals and cohesive design elements.",
+    "client": "School Event",
+    "year": "2024",
+    "tools": ["Canva"],
+    "type": "image"
+  },
+  {
+    "id": 18,
+    "title": "Christmas Party Poster",
+    "category": "event",
+    "subcategory": "Event Posters",
+    "thumbnail": "assets/image/portfolio/poster/Christmas Party Poster.jpg",
+    "gallery": ["assets/image/portfolio/poster/Christmas Party Poster.jpg"],
+    "description": "Created a visually engaging layout for the 2024 Christmas Party, incorporating the event theme through cohesive colors, creative graphics, and well-balanced typography.",
+    "client": "School Event",
+    "year": "2024",
+    "tools": ["Canva"],
+    "type": "image"
+  },
+
+  {
+    "id": 19,
+    "title": "1st Day of School Poster",
+    "category": "event",
+    "subcategory": "Event Posters",
+    "thumbnail": "assets/image/portfolio/poster/1st Day of School Poster.jpg",
+    "gallery": [  "assets/image/portfolio/poster/1st Day of School Poster.jpg"],
+    "description": "Developed a vibrant layout for the first day of school, incorporating welcoming visuals and cohesive design elements to create a positive first impression for incoming students.",
+    "client": "School Event",
+    "year": "2024",
+    "tools": [ "Canva"],
+    "type": "image"
+  },
+  
+   {
+    "id": 20,
+    "title": "Campaigns",
+    "category": "social",
+    "subcategory": "Social Media Campaigns",
+    "thumbnail": "assets/image/portfolio/social/campaigns/socmed.jpg",
+    "gallery": [
+        "assets/image/portfolio/social/campaigns/socmed.jpg",
+        "assets/image/portfolio/social/campaigns/socmed1.jpg",
+        "assets/image/portfolio/social/campaigns/socmed2.jpg",
+        "assets/image/portfolio/social/campaigns/socmed3.jpg"],
+    "description": "A collection of campaign visuals designed to showcase leadership candidates through impactful layouts.",
+    "client": "School Event",
+    "year": "2024",
+    "tools": [ "Canva" ],
+    "type": "image"
+
+},
+{
+    "id": 21,
+    "title":"Announcement",
+    "category":"video",
+    "subcategory":"Promotional Videos",
+    "thumbnail":"assets/video/Announcement.PNG",
+    "video":"assets/video/Announcement.mp4",
+    "description":"Edited a dynamic announcement video promoting the upcoming Communication Week, using engaging visuals, smooth transitions, and motion graphics to generate excitement and encourage student participation.",
+    "client":"School Event",
+    "year":"2025",
+    "tools":[ "Capcut"],
+    "type":"video"
+},
+{
+    "id": 22,
+    "title":"P-pop Commercial",
+    "category":"video",
+    "subcategory":"Commercials",
+    "thumbnail":"assets/video/ppop.PNG",
+    "video":"assets/video/P-pop Commercial.mp4",
+    "description":"Edited a creative commercial video for a research project on P-pop, combining engaging visuals, smooth pacing, and dynamic editing to effectively present the concept and capture the audience’s interest.",
+
+    "client":"School Event",
+    "year":"2025",
+    "tools":["Capcut"],
+    "type":"video"
+},{
+    "id": 23,
+    "title":"TVC",
+    "category":"video",
+    "subcategory":"Commercials",
+    "thumbnail":"assets/video/tvc.PNG",
+    "video":"assets/video/TVC.mP4",
+    "description":"Edited a TV commercial highlighting the effects of clout chasing, using compelling storytelling, dynamic visuals, and impactful pacing to effectively convey its message.",
+
+    "client":"School Event",
+    "year":"2025",
+    "tools":[ "Capcut"],
+    "type":"video"
+},
+{
+    "id": 24,
+    "title":"Promotional Vid",
+    "category":"video",
+    "subcategory":"Promotional Videos",
+    "thumbnail":"assets/video/prom1.PNG",
+    "video":"assets/video/Promotional Vid.mp4",
+    "description":"Edited a promotional video highlighting the Communication program for incoming students, using engaging visuals and dynamic storytelling to showcase the course and inspire future enrollees.",
+
+    "client":"School Event",
+    "year":"2025",
+    "tools":["Capcut" ],
+    "type":"video"
+},
+{
+    "id": 25,
+    "title":"Promotional Video",
+    "category":"video",
+    "subcategory":"Promotional Videos",
+    "thumbnail":"assets/video/promotional2.PNG",
+    "video":"assets/video/promotional2.mp4",
+    "description":"Edited a promotional video showcasing the diverse fields and roles within the Communication program, using engaging visuals and dynamic editing to highlight the experiences and opportunities available to students.",
+
+    "client":"School Event",
+    "year":"2025",
+    "tools":["Capcut"  ],
+    "type":"video"
+}
+
+
+],
+
+  "testimonials": [
+
+  ],
+
+  "contact": {
+    "email": "ashantifleur.work@gmail.com",
+    "location": "Philippines",
+    "facebook": "https://www.facebook.com/ashantifleur.siayab",
+    "instagram": "https://www.instagram.com/ashantifleur",
+    "linkedin": "https://ph.linkedin.com/in/ashanti-fleur-251b02423",
+    "gmail": "mailto:ashantifleur.work@gmail.com"
+
+  }
+}
